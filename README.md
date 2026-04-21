@@ -110,6 +110,37 @@ These insights help in understanding ticket pricing behavior and making better t
 ### Exception:
 - AirAsia shows minimal variation across stops
 
+## 📊 Visualization
+### Number of Flights operated by each Airlines
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/7b1fca60-ff70-4f60-8ec6-94fc298d04fe" />
+
+### Price range as per Travel Class
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/c9b4de85-bd9f-4b9a-921b-0f6b0b342776" />
+
+### Availability of Tickets as per Travel CLass
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/9b8f87ce-af19-4a4b-9b20-a1a6a3c5b59c" />
+
+### Price of Ticket based on duration of flight
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/197542c8-0613-40ab-922e-fc8e8d5956ca" />
+
+### Price of Tickets based on Airlines and Classs of Travel
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/8bd6a699-412f-419a-89c8-109592bd41e8" />
+
+### Airline ticket price based on Buying Time
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/0cd31264-ca4b-42c7-adf6-d55964e4f209" />
+
+### Average price depending on Duration of Flight
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/c60400cb-638a-434b-878b-9d6f99eaa365" />
+
+### Ticket price as per Departure and Arrival Time
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/51752f7c-30a8-4424-85e9-afdf0a61b6c5" />
+
+### Airlines ticket price based on Source and Destination Cities
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/110bd759-1e0e-48a1-88e2-8b15ed9fa1cb" />
+
+### Price of TIckets based on Number of stops in (Economy/ Business) Class
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/bbb6fa7b-91de-4422-a6fc-e079e0939fae" />
+
 ## 📊 Dashboard Highlights
 
 The Power BI dashboard provides insights into:
